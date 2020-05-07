@@ -1,0 +1,23 @@
+alumno:Cano Rendon Jeison Ferney
+c.c. 1128429276
+programacion para la web I
+clase jueves 6pm
+
+
+
+proyecto consultorio para agendar registros de usuario
+
+
+estructura base de datos:
+
+1-	idPrimaria	int(11)
+2-	name	        varchar(20)	utf8_general_ci	
+3-	lastname	varchar(20)	utf8_general_ci	
+4-	documento	int(20)
+5-     birthdate	 date
+6-     city	        varchar(50)	utf8_general_ci
+7-     zone	        varchar(50)	utf8_general_ci
+8-     mobile	        bigint(10)
+
+
+el proyecto arranca en el navegador desde el formulario es decir localhost /Momento2CanoRendon/ add_datos.php
